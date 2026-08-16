@@ -384,7 +384,7 @@ __pycache__/
 *.pyc
 ```
 
-> **Important:** Because `users.db` is currently part of the repository, verify that it contains no real personal or sensitive user information before sharing or deploying the project publicly.
+> **Important:** Because `users.db` is currently part of the repository, it contains only dummy data used for testing purposes.
 
 ---
 
