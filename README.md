@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 ParkinSense AI
+# ParkinSense AI
 
 ### A Multimodal Machine Learning Framework for Early Prediction of Parkinson’s Disease Using Voice and Hand-Drawn Patterns
 
