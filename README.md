@@ -147,7 +147,7 @@ If you have application screenshots, place them in `assets/` and use the followi
 ### Diagnostic Dashboard
 
 <p align="center">
-  <img src="assets/diagnostic-dashboard.png" alt="ParkinSense AI Diagnostic Dashboard" width="90%">
+  <img src="assets/diagnostic-dashboard.png" alt="ParkinSense AI Diagnostic Dashboard" width="100%">
 </p>
 
 ### Analysis Report
