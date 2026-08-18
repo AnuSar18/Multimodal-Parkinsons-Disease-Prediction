@@ -153,7 +153,7 @@ If you have application screenshots, place them in `assets/` and use the followi
 ### Analysis Report
 
 <p align="center">
-  <img src="assets/analysis-report.png" alt="ParkinSense AI Analysis Report" width="90%">
+  <img src="assets/analysis-report.png" alt="ParkinSense AI Analysis Report" width="100%">
 </p>
 
 ---
